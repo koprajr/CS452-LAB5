@@ -1,8 +1,8 @@
 /*
- * Jeffrey Kopra and Alan Schay 
+ * Jeffrey Kopra 
  * CS452
  * Graphics
- * Project 1
+ * Lab 5
  *
  * Compile Using:
  *	g++ -Wall -o run-me lab5.cpp -lGL -lGLU -lglut
